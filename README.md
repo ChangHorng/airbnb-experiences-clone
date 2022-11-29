@@ -1,7 +1,7 @@
 ## About The Project
 This project is using React to build a simple static Airbnb Experiences Clone Webpage.<br/>
 [![React][React.js]][React-url]<br/>
-This project also makes use of the concept of **arbitrary inputs (props)** and **rendering multiple components** by using map() function to transform arrays into lists of elements.
+This project also makes use of the concept of **arbitrary inputs (props)** and **rendering multiple components** by applying map() function to transform arrays into lists of elements.
 
 ## Getting Started
 In order to view the website, you can either open the link below or make a local copy and run it locally.
